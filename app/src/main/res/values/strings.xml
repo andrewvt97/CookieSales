@@ -18,6 +18,7 @@
     <string name="flavor">Flavor</string>
     <string name="pickup_date">Pickup date</string>
     <string name="send">Send Order to Another App</string>
+    <string name="back_button">Back</string>
     <plurals name="cookies">
         <item quantity="one">%d cookie</item>
         <item quantity="other">%d cookies</item>
